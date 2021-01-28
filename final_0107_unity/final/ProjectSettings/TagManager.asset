@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Knife
+  - ThrownKnife
+  - Bomb
+  - ThrownBomb
+  - FxTemporaire
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Gound
+  - Weapon
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 4244002171
+    locked: 0
+  - name: CarryWeapon
+    uniqueID: 1183738827
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 226606157
+    locked: 0
+  - name: Fore
+    uniqueID: 1722952707
+    locked: 0
+  - name: Weapon
+    uniqueID: 2206210109
+    locked: 0
+  - name: Ground
+    uniqueID: 1508984887
+    locked: 0
