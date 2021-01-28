@@ -12,5 +12,10 @@
 #### 1 computer, 2 people.  Use keyboard to move your character and attack.
 
 #### game video cut: https://www.youtube.com/playlist?list=PLvjiHq0nC8WsPWRm_1i6hheeVh9evHJ0r
+#### Download whole final_0107_exe folder to play the game!
 
-![image](coverpic.jpg)
+![image](cover.jpg)
+![image](game1.jpg)
+![image](game2.jpg)
+![image](game3.jpg)
+![image](game4.jpg)
