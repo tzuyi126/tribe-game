@@ -11,6 +11,7 @@ You and your friend, sadly to say, are from different tribes.  Try to defeat him
 ## How to Play
 1 computer, 2 people.  Use keyboard to move your character and attack.
 
+## Game Resource
 - game video cut: https://www.youtube.com/playlist?list=PLvjiHq0nC8WsPWRm_1i6hheeVh9evHJ0r
 - Download whole final_0107_exe folder to play the game!
 
